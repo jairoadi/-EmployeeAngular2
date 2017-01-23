@@ -24,6 +24,10 @@ import { Component, OnInit } from '@angular/core';
               <li><a routerLinkActive="active" routerLink="employee/employee-new"><span class="glyphicon glyphicon-user">
               </span> New Employee</a></li>
             </ul>
+            
+            <ul>
+            
+            </ul>
       
           </div><!-- /.navbar-collapse -->
         </div><!-- /.container-fluid -->
